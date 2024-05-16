@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rooja13. I'm a 20 year old Computer Science student.
-- 👀 I’m interested in video game development.
-- 🌱 I’m currently learning Linux/Unix.
+- 👋 Hi, I’m @rooja13. I'm a 23 year old Computer Science and engineering graduate.
+- 👀 I’m interested in video game and web development and I'm currently tryig to create projects that have both aspects.
+- 🌱 I’m currently working on projects to practice web development.
 - 💞️ I’m looking to collaborate on anything please! I'm willing to learn and want experience.
 - 📫 How to reach me by email, rbarajas1633@yahoo.com
 
