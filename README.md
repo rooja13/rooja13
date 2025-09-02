@@ -45,7 +45,7 @@
 
 <!-- Markdown Here -->
 
-- 👋 Hi, I'm Rogelio and I am a Computer Engineering Master's student atr SDSU.
+- 👋 Hi, I'm Rogelio and I am a Computer Engineering Master's student at SDSU.
 - 👀 I’m interested in video game development and graphics programming.
 - 🌱 I’m currently learning OpenGL to create a very simple game from scratch.
 - 💞️ I’m looking to collaborate on any project which helps people to live in a better place.
